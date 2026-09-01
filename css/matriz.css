@@ -63,7 +63,7 @@ a{
 }
 
 .titulo{
-    width: 360px;
+    width: 350px;
     background-color: rgb(223, 223, 6);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -85,7 +85,7 @@ a{
 
 .descripcion{
     width: 350px;
-    height: 220px;
+    height: 200px;
     background-color: rgb(223, 223, 6);
     padding: 12px;
 
